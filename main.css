@@ -1,0 +1,74 @@
+
+.parent1{
+   
+    overflow: hidden;
+}
+.parent1 div{
+    width:30%;
+    float: left;
+ 
+    margin-top: 120px;
+    margin-left: 80px;
+}
+.parent1 .lab{
+    float: right;
+    margin-right: 190px;
+}
+.tel{
+    margin-left: 100px;
+    padding-top: 40px;
+}
+h2{
+    
+    margin-left: 100px;
+}
+p{
+    margin-left: 100px;
+}
+.but{
+    margin-left: 100px;
+    padding: 10px 15px;
+    border-radius: 40%;
+    background-color: rgb(152, 171, 214);
+}
+.parent2{
+    overflow: hidden;
+   
+    padding-top: 100px;
+
+}
+.parent2 div{
+    width: 40%;
+    float: right;
+    
+    margin-top: 150px;
+    margin-right: 60px;
+
+}
+.tab{
+    margin-left: 140px;
+}
+.tel2{
+    margin-left: 100px;
+    padding-top: 40px;
+    margin-left:5px;
+    
+}
+.h2{
+    font-size: 32px;
+    color: #0e0d0d;
+    line-height: 1.38em;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Rubik";
+    margin-left:20px;
+}
+p{
+    margin-left:20px;
+    font-size: 1.04em;
+    color: #606060;
+    line-height: 1.86em;
+}
+.p2{
+    margin-left: 20px;
+}
